@@ -1,0 +1,114 @@
+.heading{
+    height: 59px;
+    width: 896px;
+    align-self: center;
+    align-items: center;
+    background-color: #404040;
+    color: white;
+    font-size: 34px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-left: 1px;
+    
+        }
+        .frame{
+            background-color: white;
+            height: 345px;
+            width: 870px;
+            margin-top: 40px;
+            border-radius: 20px;
+            margin-left: 14px;
+        }
+        .body{
+            justify-content: center
+        }
+        .bg{
+            background-color: #f0f5f5;
+            height: 499px;
+            width: 63%;
+            margin-left: 300px;
+        }
+        #ques{
+            margin-left: 47px;
+            position: absolute;
+            margin-top: 13px;
+            font-size: 23px;
+            font-weight: bold;
+        }
+    #opt1{
+        left: 367px;
+        color: black;
+        position: absolute;
+        top: 153px;
+    }
+    #opt2{
+        color: black;
+        position: absolute;
+        top: 187px;
+        left: 367px;
+    }
+    
+    #opt3{
+        color: black;
+        position: absolute;
+        top: 221px;
+        left: 367px;
+    
+    }
+    #opt4{
+        color: black;
+        position: absolute;
+        top: 256px;
+        left: 367px;
+    }
+    #button{
+        position: absolute;
+        top: 357px;
+        left: 367px;
+        border: none;
+
+    }
+    #result{
+        position: absolute;
+        top: 295px;
+        left: 368px;
+        height: 39px;
+    }
+        
+    
+    #cc{
+        height: 33px;
+    font-size: 20px;
+    }
+    #res{
+        color: black;
+        font-size: 23px;
+        margin-left: 28px;
+        position: absolute;
+        margin-top: 3px;
+        font-weight: bold;
+    }
+    #and{
+        margin-top: -320px;
+        margin-left: 22px;
+        line-height: 1.9;
+    }
+   #as{ background-color: #f0f5f5;
+    height: 578px;
+    width: 63%;
+    margin-left: 300px;
+   }
+   #newframe{
+    background-color: white;
+    height: 495px;
+    width: 870px;
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-left: 19px;
+   }
+   #bt{
+    position: absolute;
+    top: 454px;
+    left: 322px;
+    height: 10px;
+   }
